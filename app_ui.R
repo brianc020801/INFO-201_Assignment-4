@@ -40,10 +40,10 @@ ui <- shinyUI(
                       )
              ), 
              tags$style(
-               "p {color: #FFFFFF !important;
+               "p {color: #000000 !important;
           font-family: Rockwell !important;
           font-size: 20px !important;}", 
-               "h1 {color: #FFFFFF !important;
+               "h1 {color: #000000 !important;
           font-family: Rockwell}"
              )
   )
